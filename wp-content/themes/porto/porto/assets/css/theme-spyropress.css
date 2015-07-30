@@ -1,0 +1,383 @@
+.alignleft {
+    float: left;
+    margin-right: 20px;
+}
+
+.alignright {
+    float: right;
+    margin-left: 20px;
+}
+
+.txt30 {
+    font-size: 30px;
+}
+.txt32 {
+    font-size: 32px;
+}
+.txt37 {
+    font-size: 37px;
+}
+.txt40 {
+    font-size: 40px;
+}
+.txt47 {
+    font-size: 47px;
+}
+
+.divider_flat {
+    margin-top: 60px;
+    clear: both;
+}
+
+.column_first:before, .column_first:after {
+    content:"";
+    display: table;
+}
+.column_first, .column_first:after, .clear {
+    clear: both;
+}
+
+div.fontawesome-icon-list em {
+	font-size: 1.3em;
+	margin-right: 5px;
+	display: inline-block;
+	width: 30px;
+	text-align: center;
+	position: relative;
+	top: 2px;
+}
+
+/* Contact Form 7 */
+div.wpcf7 {
+	margin: 0;
+	padding: 0;
+}
+
+div.wpcf7-response-output {
+	margin: 2em 0 1em;
+}
+
+div.wpcf7-mail-sent-ng {
+	border: 1px solid #ff0000;
+}
+
+div.wpcf7-spam-blocked {
+	border: 1px solid #ffa500;
+}
+
+span.wpcf7-form-control-wrap {
+	display: block;
+}
+
+span.wpcf7-not-valid-tip {    
+    color: #C10000;
+    font-size: 0.9em;
+    margin-top: -5px;
+    display: block;
+}
+
+span.wpcf7-not-valid-tip-no-ajax {
+	color: #f00;
+	font-size: 10pt;
+	display: block;
+}
+
+.wpcf7-display-none {
+	display: none;
+}
+
+div.wpcf7 img.ajax-loader {
+	border: none;
+	vertical-align: middle;
+	margin-left: 4px;
+}
+
+div.wpcf7 div.ajax-error {
+	display: none;
+}
+
+div.wpcf7 .placeheld {
+	color: #888;
+}
+
+/* SHOP */
+.pagination-top {
+    margin-top: 0;
+    margin-left: 10px;
+}
+div.shop .added_to_cart.wc-forward{
+    display: none!important;
+}
+.woocommerce.widget_product_tag_cloud .label {
+    font-size: 75% !important;
+}
+div.shop .widget_shopping_cart .actions-continue {
+    float: none;
+}
+div.shop .widget_recent_reviews .star-rating {
+    margin-bottom: 2px;
+}
+
+.price_slider_wrapper .ui-widget-content {
+    background: #ccc;
+    height: 5px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    position: relative;
+    text-align: left;
+}
+    .price_slider_wrapper .ui-slider-range {
+        position: absolute;top: -1px;z-index: 1;
+        font-size: .7em;
+        display: block;
+        height: 100%;
+        margin: 0px -6px;
+        height: 6px;
+        border:0;
+        background: #41b6c1;
+    }
+    .price_slider_wrapper .ui-slider-handle {
+        position: absolute;
+        z-index: 2;
+        cursor: default;
+        top: -6px;
+        margin-left: -9px;
+        border: none;
+        background: url(../img/slider_dbtn.png) 50% 50% no-repeat;
+        font-weight: normal;
+        color: #555555;
+        width: 16px;
+        height: 16px;
+    }
+
+div.taller, div.product_meta {
+    margin-bottom: 40px;
+}
+
+.comment-form-rating {
+    clear: both;
+}
+p.stars {
+  position: relative;
+  line-height: 1em;
+  font-size: 1em;
+}
+p.stars:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  overflow: hidden;
+  clear: both;
+}
+p.stars a {
+  width: 19%;
+  display: block;
+  position: relative;
+  float: left;
+  text-decoration: none;
+  font-weight: bold;
+  
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  
+  /* Opera/IE 8+ */
+  padding: .5em .5em .5em 1em;
+  background: rgba(0, 0, 0, 0.025);
+  margin-right: 1%;
+  
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+p.stars a:hover {
+  background: rgba(0, 0, 0, 0.075);
+}
+p.stars a:after {
+  font-family: "Star";
+  content: "S";
+  position: absolute;
+  top: 50%;
+  margin-top: -6px;
+  width: 6em;
+  right: 1em;
+  font-size: .9em;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  color: #999;
+  text-align: right;
+}
+p.stars a:hover:after {
+  color: #666666;
+}
+p.stars a.active, p.stars a.active:after {
+    color: #fff;
+}
+p.stars a.star-1:after {
+  content: "S";
+}
+p.stars a.star-2:after {
+  content: "SS";
+}
+p.stars a.star-3:after {
+  content: "SSS";
+}
+p.stars a.star-4:after {
+  content: "SSSS";
+}
+p.stars a.star-5:after {
+  content: "SSSSS";
+}
+
+.coupon .form-control {
+    height: 34px;
+}
+#checkout-login-form form {
+    display: block !important;
+}
+#checkout-login-form .featured-box {
+    height: auto !important;
+}
+
+ul.order_details {
+  border: 1px solid #e8e4e3;
+  list-style: none;
+  padding-left: 1.618em;
+  position: relative;
+}
+ul.order_details:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  overflow: hidden;
+  clear: both;
+}
+ul.order_details li {
+  padding: 1em 2em 1em 0;
+  margin-right: 2em;
+  float: left;
+  border-right: 1px solid #e8e4e3;
+  text-transform: uppercase;
+  font-size: .857em;
+  color: #9f9693;
+}
+ul.order_details li strong {
+  display: block;
+  text-transform: none;
+  font-size: 1.387em;
+  color: #6c6360;
+}
+ul.order_details li:last-child {
+  border-right: 0;
+}
+ul.order_details:before {
+  font-family: 'FontAwesome';
+  display: inline-block;
+  margin-left: .618em;
+  font-weight: normal;
+  content: "\f058";
+  position: absolute;
+  top: .45em;
+  right: .618em;
+  font-size: 4em;
+  color: #84ac50;
+}
+.order_details.bacs_details {
+    padding-top: 1.3em;
+}
+.order_details.bacs_details:before {
+    content: "\f0d6";
+}
+
+div.alert.alert-white {
+    border-top: 2px solid #DFDFDF;
+    border-radius: 6px;
+}
+.nmh {
+    min-height: 1px !important;
+}
+.featured-box .alert-white {
+    margin-bottom: 0;
+    text-align: left;
+}
+div.featured-box.text-left div.box-content {
+    text-align: left;
+}
+
+div.shop .widget_shopping_cart table.cart .product-thumbnail {
+    width:70px
+}
+
+div.shop .chosen-container {
+    width: 100% !important;
+}
+div.shop .chosen-container-single .chosen-single {
+    height: 34px;
+    padding: 6px 12px;
+    line-height: 1.6;
+}
+
+div.shop .chosen-container-single .chosen-single div b {
+    background-position: 0 8px;
+}
+
+/* calendar - this works nicely on duotone theme */
+#wp-calendar {width: 100%; }
+#wp-calendar caption { color: #fff; margin-bottom: 15px; padding: 8px 0; }
+#wp-calendar thead { font-size: 10px; }
+#wp-calendar thead th { padding-bottom: 10px; text-align: center; }
+#wp-calendar tbody { color: #aaa; }
+#wp-calendar tbody td { background: #f5f5f5; border: 1px solid #fff; text-align: center; padding:8px;}
+#wp-calendar tbody td:hover { background: #fff; }
+#wp-calendar tbody .pad { background: none; }
+#wp-calendar tfoot #next { font-size: 12px; text-transform: uppercase; text-align: right; }
+#wp-calendar tfoot #prev { font-size: 12px; text-transform: uppercase; padding-top: 10px; }
+
+.captcha-control {
+    height: auto;
+}
+.captcha-image {
+	float: none;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+.small-img ul {
+    padding: 0;
+}
+.small-img ul li {
+    width: 22.75%;
+    margin-right: 3%;
+    float: left;
+    list-style: none;
+    font-size: 13px;
+}
+.small-img ul li img {
+    cursor: pointer;
+    width:100px!important;
+}
+.demo_store{
+    background: #F5F5F5;
+    background-color: transparent;
+    background: -webkit-linear-gradient(top, white 1%, #f9f9f9 98%) repeat scroll 0 0 transparent;
+    background: linear-gradient(to bottom, white 1%, #f9f9f9 98%) repeat scroll 0 0 transparent;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-bottom: 1px solid #DFDFDF;
+    border-left: 1px solid #ECECEC;
+    border-right: 1px solid #ECECEC;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.04);
+    margin: 0;
+    padding: 20px;
+    min-height: 50px;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+}

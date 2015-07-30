@@ -1,0 +1,162 @@
+
+/* GLOBAL
+------------------------------------------------------- */
+#spyropress-popup {
+	width: 560px;
+	font: 12px/20px Arial, Helvetica, sans-serif;
+	overflow: hidden;
+}
+#spyropress-popup * {
+	font: 12px/20px Arial, Helvetica, sans-serif;	
+}
+
+/* form side */
+#spyropress-sc-form-wrap {
+	width: 550px;
+	float: left;
+}
+#spyropress-sc-form-wrap #spyropress-sc-form {
+	width: 490px;
+	padding: 15px;
+}
+
+
+
+/* FORM
+------------------------------------------------------- */
+
+#spyropress-sc-form-table {
+	width: 530px;
+}
+#spyropress-sc-form-table tbody tr.form-row {
+	display: block;
+	padding: 5px 0;
+	border-bottom: solid 1px #eaeaea;
+}
+#spyropress-sc-form-table tbody:last-child tr.form-row {
+	border-bottom: none;
+}
+#spyropress-sc-form-table tbody tr.form-row .label {
+	width: 130px;
+	text-align: left;
+	vertical-align: top;
+	line-height: 35px;
+	padding-right: 20px;
+}
+#spyropress-sc-form-table tbody tr.form-row .field {
+	width: 350px;
+}
+#spyropress-sc-form-table tbody tr.form-row .spyropress-insert {
+	color: #fff;
+}
+
+/* child rows, sortable */
+#spyropress-sc-form-table .has-child #form-child-add {
+	display: block;
+	width: 520px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 0;
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+}
+#spyropress-sc-form-table .has-child .child-clone-rows {
+	display: block;
+}
+#spyropress-sc-form-table .has-child .child-clone-rows .child-clone-row {
+	padding: 8px 15px;
+	background: #f7f7f7;
+	border: solid 1px #e0e0e0;
+	margin-bottom: 10px;
+	cursor: move;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+#spyropress-sc-form-table .has-child .sortable-placeholder {
+	border: dashed 2px #e0e0e0;
+	margin-bottom: 10px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: #f7f7f7;
+	height: 40px;
+}
+#spyropress-sc-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-form {
+	display: block;
+}
+#spyropress-sc-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-form .child-clone-row-form-row {
+	display: block;
+	padding: 7px 0;
+	border-bottom: solid 1px #ddd;
+}
+#spyropress-sc-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-form .child-clone-row-form-row .child-clone-row-label label {
+	display: block;
+	font-weight: bold;
+	font-style: italic;
+	padding-bottom: 7px;
+	line-height: 1;
+}
+#spyropress-sc-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-remove {
+	color: #FF0000;
+	padding: 1px;
+}
+#spyropress-sc-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-remove:hover {
+	color: #fff;
+	background: #FF0000;
+}
+
+/* form elements */
+
+/* - all */
+#spyropress-sc-form-table tbody tr.form-row .spyropress-form-text,
+#spyropress-sc-form-table tbody tr.form-row .spyropress-form-textarea,
+#spyropress-sc-form-table tbody tr.form-row .spyropress-form-select {
+	width: 350px;
+	padding: 5px 10px;
+	background: #f7f7f7;
+	border: none;
+	border-left: solid 1px #ddd;
+	border-top: solid 1px #ddd;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+#spyropress-sc-form-table tbody tr.form-row.has-child .spyropress-form-text,
+#spyropress-sc-form-table tbody tr.form-row.has-child .spyropress-form-textarea,
+#spyropress-sc-form-table tbody tr.form-row.has-child .spyropress-form-select {
+	background: #fff;
+	width: 485px;
+}
+
+/* - textarea */
+#spyropress-sc-form-table tbody tr.form-row .spyropress-form-textarea {
+	height: 120px;
+}
+#spyropress-sc-form-table tbody tr.form-row.has-child .spyropress-form-textarea {
+	height: 100px;
+}
+
+/* - select */
+#spyropress-sc-form-table tbody tr.form-row .spyropress-form-select {
+	display: block;
+	height: 25px;
+}
+#spyropress-sc-form-table tbody tr.form-row.has-child .spyropress-form-select {
+	width: auto;
+	height: 25px;
+}
+
+/* - desc */
+#spyropress-sc-form-table tbody tr.form-row .field .spyropress-form-desc,
+#spyropress-sc-form-table tbody tr.form-row .child-clone-row-desc {
+	display: block;
+	font-size:  12px;
+	color: #aaa;
+	font-style: italic;
+	padding-top: 3px;
+}
+
+/* Hide outline on focus */
+#content_spyropress_button { outline: none; }

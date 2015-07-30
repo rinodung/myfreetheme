@@ -1,0 +1,13 @@
+@media (max-width: 600px) {
+
+	/* Header */
+	#header {
+		nav ul.nav-top li {
+			display: none;
+			.phone {
+				display: block;
+			}
+		}
+	}
+
+}

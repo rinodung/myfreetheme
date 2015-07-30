@@ -1,0 +1,17 @@
+/*
+Theme Name: Spyropress
+
+Add support for languages written RTL by pasting the style.css code
+below. Maintain the attributes for the body selector included below.
+For all of the pasted CSS, remove irrelevant attributes and change 
+the following attributes to mirror the ltr stylesheet:
+text-direction (text-align); float; clear; margin; padding; boders;
+background-position; right/left positioning
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}

@@ -1,0 +1,1 @@
+<p><?php get_setting_e( 'topbar_teaser' ) ?> <?php if( $ph = get_setting( 'topbar_ph' ) ) { ?><span><i class="fa fa-phone"></i><?php echo $ph ?></span><?php } ?><?php if( $email = get_setting( 'topbar_email' ) ) { ?> | <a href="mailto:<?php echo $email; ?>"><?php echo $email; ?></a><?php } ?></p>

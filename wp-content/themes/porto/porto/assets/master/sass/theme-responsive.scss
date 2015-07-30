@@ -1,0 +1,14 @@
+/*
+Name: 			theme-responsive.css
+Written by: 	Okler Themes - (http://www.okler.net)
+Version: 		@@version
+*/
+
+//COMMON IMPORTS
+@import "config/imports";
+
+@import "responsive/responsive-lg";
+@import "responsive/responsive-md";
+@import "responsive/responsive-sm";
+@import "responsive/responsive-xs";
+@import "responsive/responsive-custom";

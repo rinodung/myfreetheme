@@ -1,0 +1,94 @@
+.row-fluid {
+    width: 100%;*zoom: 1;
+}
+    .row-fluid:before, .row-fluid:after {
+        display: table;content: "";line-height: 0;
+    }
+    .row-fluid:after {
+        clear: both;
+    }
+    .row-fluid [class*="span"] {
+      display: block;
+      width: 100%;
+      min-height: 30px;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      float: left;
+      margin-left: 1.6666666666666667%;
+      *margin-left: 1.6145833333333335%;
+    }
+    .alpha, .row-fluid [class*="span"]:first-child {
+      margin-left: 0 !important;
+    }
+    .row-fluid .controls-row [class*="span"] + [class*="span"] {
+      margin-left: 1.6666666666666667%;
+    }
+    .row-fluid .span16 {
+      width: 100%;
+      *width: 99.94791666666667%;
+    }
+    .row-fluid .span15 {
+      width: 93.64583333333334%;
+      *width: 93.59375000000001%;
+    }
+    .row-fluid .span14 {
+      width: 87.29166666666667%;
+      *width: 87.23958333333334%;
+    }
+    .row-fluid .span13 {
+      width: 80.9375%;
+      *width: 80.88541666666667%;
+    }
+    .row-fluid .span12 {
+      width: 74.58333333333334%;
+      *width: 74.53125000000001%;
+    }
+    .row-fluid .span11 {
+      width: 68.22916666666667%;
+      *width: 68.17708333333334%;
+    }
+    .row-fluid .span10 {
+      width: 61.875%;
+      *width: 61.822916666666664%;
+    }
+    .row-fluid .span9 {
+      width: 55.520833333333336%;
+      *width: 55.46875%;
+    }
+    .row-fluid .span8 {
+      width: 49.16666666666667%;
+      *width: 49.114583333333336%;
+    }
+    .row-fluid .span7 {
+      width: 42.8125%;
+      *width: 42.760416666666664%;
+    }
+    .row-fluid .span6 {
+      width: 36.458333333333336%;
+      *width: 36.40625%;
+    }
+    .row-fluid .span5 {
+      width: 30.104166666666668%;
+      *width: 30.052083333333336%;
+    }
+    .row-fluid .span4 {
+      width: 23.75%;
+      *width: 23.697916666666668%;
+    }
+    .row-fluid .span3 {
+      width: 17.395833333333332%;
+      *width: 17.34375%;
+    }
+    .row-fluid .span2 {
+      width: 11.041666666666666%;
+      *width: 10.989583333333332%;
+    }
+    .row-fluid .span1 {
+      width: 4.6875%;
+      *width: 4.635416666666667%;
+    }
+    .row-fluid .span1by3 {
+      width: 32.22%;
+      *width: 32.22%;
+    }

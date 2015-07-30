@@ -1,0 +1,3367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Porto\n"
+"POT-Creation-Date: 2014-11-13 19:38+0500\n"
+"PO-Revision-Date: 2014-11-13 19:38+0500\n"
+"Last-Translator: Shak <info@spyropress.com>\n"
+"Language-Team: Spyropress <info@spyropress.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../framework\n"
+
+#: ../404.php:12
+msgid "404"
+msgstr ""
+
+#: ../404.php:13
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: ../404.php:14
+msgid " We're sorry, but the page you were looking for doesn't exist."
+msgstr ""
+
+#: ../404.php:15
+msgid "Here are some useful links"
+msgstr ""
+
+#: ../comments.php:9 ../comments.php:70
+#: ../includes/spyropress-settings-theme.php:1042
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:10 ../includes/spyropress-settings-theme.php:1035
+#: ../includes/spyropress-settings-theme.php:1050
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:11
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:12
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:13
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Your name (required)"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Your email (required)"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:73
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../functions.php:94 ../includes/components/page/page-init.php:62
+#: ../includes/components/page/page-init.php:68
+msgid "Nivo Slider"
+msgstr ""
+
+#: ../functions.php:110 ../woocommerce/global/breadcrumb.php:216
+msgid "Page"
+msgstr ""
+
+#: ../functions.php:111
+msgid "Sidebar loads on pages."
+msgstr ""
+
+#: ../functions.php:118 ../templates/top-blog.php:3
+msgid "Blog"
+msgstr ""
+
+#: ../functions.php:119
+msgid "Sidebar loads on blog page."
+msgstr ""
+
+#: ../functions.php:126
+msgid "WooCommerce"
+msgstr ""
+
+#: ../functions.php:127
+msgid "Sidebar loads on WooCommerce pages."
+msgstr ""
+
+#: ../functions.php:134
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions.php:135 ../functions.php:143 ../functions.php:151
+#: ../functions.php:159 ../functions.php:167
+msgid "A widget area loaded in the footer of the site."
+msgstr ""
+
+#: ../functions.php:142
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions.php:150
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions.php:158
+msgid "Footer 4"
+msgstr ""
+
+#: ../functions.php:166
+msgid "Footer 5"
+msgstr ""
+
+#: ../functions.php:179 ../functions.php:180
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/components/bucket/bucket-init.php:33
+#: ../includes/components/bucket/module/bucket.php:20
+msgid "Bucket"
+msgstr ""
+
+#: ../includes/components/bucket/bucket-init.php:38
+msgid ""
+"Display bucket anywhere into your posts, pages, custom post types or widgets "
+"by using the shortcode below:"
+msgstr ""
+
+#: ../includes/components/bucket/bucket-init.php:43
+#: ../includes/components/bucket/bucket-init.php:56
+#: ../includes/components/pricing-table/pricing-table-init.php:41
+#: ../includes/components/pricing-table/pricing-table-init.php:88
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/components/bucket/module/bucket.php:18
+msgid "A list of partial layouts created using Template Builder."
+msgstr ""
+
+#: ../includes/components/bucket/module/bucket.php:25
+#: ../includes/components/faqs/module/module.php:23
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:62
+#: ../includes/components/portfolio/recent-works/widget.php:27
+#: ../includes/components/pricing-table/pricing-table-init.php:115
+#: ../includes/components/pricing-table/pricing-table-init.php:151
+#: ../includes/components/staff/module/staff.php:45
+#: ../includes/components/testimonials/module/module.php:41
+#: ../includes/shortcodes/config.php:412 ../includes/shortcodes/config.php:493
+#: ../includes/spyropress-settings-theme.php:1091
+#: ../includes/widgets/contact-info/contact.php:50
+#: ../includes/widgets/socials/socials.php:39
+#: ../includes/widgets/tab-widget/tab-widget.php:44
+#: ../includes/widgets/tab-widget/tab-widget.php:63
+#: ../includes/widgets/tab-widget/tab-widget.php:82
+#: ../includes/widgets/twitter/twitter.php:29
+msgid "Title"
+msgstr ""
+
+#: ../includes/components/bucket/module/bucket.php:30
+msgid "Buckets"
+msgstr ""
+
+#: ../includes/components/bucket/module/bucket.php:31
+msgid "Partial Layout created using Template Builder."
+msgstr ""
+
+#: ../includes/components/faqs/faqs-init.php:26
+msgid "Enter question here"
+msgstr ""
+
+#: ../includes/components/faqs/faqs-init.php:30
+msgid "FAQ"
+msgstr ""
+
+#: ../includes/components/faqs/faqs-init.php:33
+msgid "FAQ Category"
+msgstr ""
+
+#: ../includes/components/faqs/faqs-init.php:33
+#: ../includes/components/testimonials/testimonials-init.php:33
+#: ../includes/widgets/default-widgets.php:8
+msgid "Categories"
+msgstr ""
+
+#: ../includes/components/faqs/module/module.php:18
+msgid "FAQs"
+msgstr ""
+
+#: ../includes/components/faqs/module/module.php:19
+msgid "A module to display faqs."
+msgstr ""
+
+#: ../includes/components/faqs/module/module.php:30
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:69
+#: ../includes/components/portfolio/recent-works/widget.php:34
+#: ../includes/components/staff/module/staff.php:58
+#: ../includes/components/testimonials/module/module.php:48
+msgid "Number of items"
+msgstr ""
+
+#: ../includes/components/faqs/module/module.php:37
+#: ../includes/components/portfolio/portfolio-init.php:35
+#: ../includes/components/testimonials/module/module.php:64
+#: ../includes/spyropress-settings-theme.php:546
+msgid "Category"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: ../includes/components/mega-menu.php:64
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../includes/components/mega-menu.php:68
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:80
+msgid "sub item"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:95
+msgid "Move up"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:108
+msgid "Move down"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:110
+#: ../includes/components/mega-menu.php:112
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:121
+#: ../includes/components/staff/staff-init.php:62
+#: ../includes/spyropress-settings-theme.php:182
+#: ../includes/widgets/socials/socials.php:58
+msgid "URL"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:128
+msgid "Navigation Label"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:134
+msgid "Title Attribute"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:141
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:146
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:152
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:158
+msgid "Description"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:160
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../includes/components/mega-menu.php:169
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:177
+msgid "Move"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:178
+msgid "Up one"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:179
+msgid "Down one"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:182
+msgid "To the top"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:188
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:201
+msgid "Remove"
+msgstr ""
+
+#: ../includes/components/mega-menu.php:201
+#: ../woocommerce/myaccount/my-orders.php:81
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:38
+#: ../includes/components/page/page-init.php:52
+#: ../includes/components/slider/slider-init.php:51
+msgid "Slider"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:44
+msgid "OnePage Navigation Menu"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:57
+msgid "Slider Type"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:63
+#: ../includes/components/page/page-init.php:81
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:89
+msgid "Revolution Slider Skin"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:94
+msgid "Dark"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:95
+msgid "Light"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:96
+msgid "FullScreen"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:97
+msgid "Video - Dark"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:98
+msgid "Video - Light"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:105
+msgid "Header"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:110
+msgid "Header Type"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:115
+msgid "None"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:116
+msgid "Default"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:117
+msgid "Custom Header"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:123
+msgid "Custom Header Bucket"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:127
+#: ../includes/components/page/page-init.php:135
+msgid "Either use Bucket or Content"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:132
+msgid "Custom Header Content"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:140
+msgid "Custom Header Background"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:147
+msgid "Top Border color"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:154
+msgid "Bottom Border color"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:161
+#: ../includes/spyropress-settings-theme.php:329
+#: ../includes/spyropress-settings-theme.php:579
+msgid "Layout"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:166
+msgid "Layout Type"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:170
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:31
+#: ../includes/spyropress-settings-theme.php:339
+#: ../includes/spyropress-settings-theme.php:589
+#: ../includes/spyropress-settings-theme.php:660
+msgid "Full Width"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:171
+#: ../includes/spyropress-settings-theme.php:601
+#: ../includes/spyropress-settings-theme.php:672
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:172
+#: ../includes/spyropress-settings-theme.php:602
+#: ../includes/spyropress-settings-theme.php:673
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../includes/components/page/page-init.php:177
+msgid "Page Options"
+msgstr ""
+
+#: ../includes/components/pagination.php:17
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: ../includes/components/pagination.php:20
+msgid "&laquo; First"
+msgstr ""
+
+#: ../includes/components/pagination.php:21
+msgid "Last &raquo;"
+msgstr ""
+
+#: ../includes/components/pagination.php:22
+msgid "&laquo;"
+msgstr ""
+
+#: ../includes/components/pagination.php:23
+msgid "&raquo;"
+msgstr ""
+
+#: ../includes/components/pagination.php:24
+#: ../includes/components/pagination.php:25
+msgid "&hellip;"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:32
+#: ../includes/components/portfolio/portfolio-init.php:41
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:22
+#: ../includes/components/post.php:28
+#: ../includes/spyropress-settings-theme.php:995
+#: ../templates/top-page-portfolio.php:4
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:35
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:36
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:295
+#: ../includes/spyropress-settings-theme.php:545 ../single-portfolio.php:14
+msgid "Services"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:47
+msgid "Project URL"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:53
+#: ../single-portfolio.php:15
+msgid "Client"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:59
+#: ../single-portfolio.php:16
+msgid "Client Testimonial"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:66
+msgid "Showcase Type"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:70
+#: ../includes/components/portfolio/portfolio-init.php:77
+#: ../includes/components/post.php:40
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:71
+#: ../includes/components/portfolio/portfolio-init.php:85
+#: ../includes/components/post.php:48
+msgid "Video"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:78
+#: ../includes/components/post.php:41
+msgid "Click to upload images"
+msgstr ""
+
+#: ../includes/components/portfolio/portfolio-init.php:94
+msgid "Portfolio Details"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:20
+#: ../includes/components/portfolio/recent-works/widget.php:19
+msgid "Display a list of portfolio."
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:26
+#: ../includes/components/staff/module/staff.php:28
+msgid "Carousel"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:36
+msgid "Lightbox"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:41
+msgid "Listing"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:45
+#: ../includes/spyropress-settings-theme.php:342
+msgid "Timeline"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:53
+#: ../includes/components/staff/module/staff.php:36
+#: ../includes/widgets/contact-info/contact.php:42
+msgid "Templates"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:79
+msgid "Show pagination"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:84
+#: ../includes/components/staff/module/staff.php:65
+msgid "Number of Columns"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:93
+#: ../includes/components/portfolio/recent-works/widget.php:42
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:104
+msgid "Show portfolio filters"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:109
+#: ../includes/components/staff/module/staff.php:82
+msgid "All Label"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:126
+msgid "Show All"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:220
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:267
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:329
+msgid "Universal"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:293
+#: ../single-portfolio.php:12
+msgid "Project <strong>Description</strong>"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-portfolio/portfolio.php:294
+#: ../single-portfolio.php:13
+msgid "Live Preview"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-works/widget.php:21
+msgid "Recent Works"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-works/widget.php:52
+msgid "Show Archive Link"
+msgstr ""
+
+#: ../includes/components/portfolio/recent-works/widget.php:57
+msgid "Link to Text"
+msgstr ""
+
+#: ../includes/components/post.php:34
+msgid "Select post format to have some options.<br><br>"
+msgstr ""
+
+#: ../includes/components/post.php:49
+msgid "Enter the video link you want to embed"
+msgstr ""
+
+#: ../includes/components/post.php:56
+msgid "Audio"
+msgstr ""
+
+#: ../includes/components/post.php:57
+msgid "Enter the audio link you want to embed"
+msgstr ""
+
+#: ../includes/components/post.php:64
+msgid "Quote Source Name"
+msgstr ""
+
+#: ../includes/components/post.php:65
+msgid "Enter the quote source name here"
+msgstr ""
+
+#: ../includes/components/post.php:72
+#: ../includes/spyropress-settings-theme.php:322
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:33
+msgid "Pricing Table"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:36
+msgid ""
+"Display price table anywhere into your posts, pages, custom post types or "
+"widgets by using the shortcode below:"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:55
+#: ../includes/components/staff/module/staff.php:24
+#: ../includes/components/testimonials/module/module.php:25
+msgid "Columns"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:59
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:60
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:61
+msgid "4 Columns"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:66
+msgid "Currency"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:73
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:80
+msgid "Popular Text"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:93
+#: ../includes/components/pricing-table/pricing-table-init.php:99
+msgid "Table"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:110
+msgid "Most Popular"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:125
+#: ../woocommerce/cart/cart.php:34 ../woocommerce/checkout/review-order.php:28
+#: ../woocommerce/emails/admin-new-order.php:24
+#: ../woocommerce/emails/customer-completed-order.php:25
+#: ../woocommerce/emails/customer-invoice.php:29
+#: ../woocommerce/emails/customer-note.php:29
+#: ../woocommerce/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:135
+#: ../includes/shortcodes/config.php:112
+msgid "Button URL"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:145
+msgid "Features"
+msgstr ""
+
+#: ../includes/components/pricing-table/pricing-table-init.php:161
+msgid "Tables"
+msgstr ""
+
+#: ../includes/components/slider/nivo/nivo-init.php:14
+#: ../includes/components/slider/slider-init.php:98
+msgid "Slides"
+msgstr ""
+
+#: ../includes/components/slider/nivo/nivo-init.php:21
+msgid "Slide"
+msgstr ""
+
+#: ../includes/components/slider/nivo/nivo-init.php:27
+msgid "Image"
+msgstr ""
+
+#: ../includes/components/slider/slider-init.php:54
+msgid ""
+"You can place this slider anywhere into your posts, pages, custom post types "
+"or widgets by using the shortcode below:"
+msgstr ""
+
+#: ../includes/components/slider/slider-init.php:59
+#: ../includes/components/slider/slider-init.php:81
+msgid "Start Here"
+msgstr ""
+
+#: ../includes/components/slider/slider-init.php:65
+msgid "Select slider type"
+msgstr ""
+
+#: ../includes/components/slider/slider-init.php:70
+msgid "Select a slider type and hit [Publish] to start building your slider."
+msgstr ""
+
+#: ../includes/components/slider/slider-init.php:103
+#: ../includes/spyropress-settings-theme.php:1122
+msgid "Settings"
+msgstr ""
+
+#: ../includes/components/staff/module/staff.php:18
+msgid "Display a list of staff."
+msgstr ""
+
+#: ../includes/components/staff/module/staff.php:20
+msgid "Our Team"
+msgstr ""
+
+#: ../includes/components/staff/module/staff.php:51
+#: ../includes/shortcodes/config.php:204 ../includes/shortcodes/config.php:454
+#: ../includes/shortcodes/config.php:477
+msgid "Animation"
+msgstr ""
+
+#: ../includes/components/staff/module/staff.php:77
+msgid "Show filters"
+msgstr ""
+
+#: ../includes/components/staff/staff-init.php:25
+#: ../includes/components/testimonials/testimonials-init.php:26
+msgid "Enter name here.."
+msgstr ""
+
+#: ../includes/components/staff/staff-init.php:30
+msgid "Staff"
+msgstr ""
+
+#: ../includes/components/staff/staff-init.php:31
+#: ../includes/components/testimonials/testimonials-init.php:50
+msgid "Designation"
+msgstr ""
+
+#: ../includes/components/staff/staff-init.php:36
+msgid "Staffs"
+msgstr ""
+
+#: ../includes/components/staff/staff-init.php:42
+#: ../includes/spyropress-settings-theme.php:299
+msgid "About"
+msgstr ""
+
+#: ../includes/components/staff/staff-init.php:49
+msgid "Social"
+msgstr ""
+
+#: ../includes/components/staff/staff-init.php:55
+#: ../includes/spyropress-settings-theme.php:188
+#: ../includes/widgets/socials/socials.php:51
+msgid "Network"
+msgstr ""
+
+#: ../includes/components/staff/staff-init.php:70
+msgid "Link to Page"
+msgstr ""
+
+#: ../includes/components/staff/staff-init.php:76
+msgid "Mate Information"
+msgstr ""
+
+#: ../includes/components/testimonials/module/module.php:19
+msgid "Display a list of testimonials."
+msgstr ""
+
+#: ../includes/components/testimonials/module/module.php:21
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/components/testimonials/module/module.php:33
+#: ../includes/widgets/socials/socials.php:32
+msgid "Styles"
+msgstr ""
+
+#: ../includes/components/testimonials/module/module.php:55
+msgid "Number of columns"
+msgstr ""
+
+#: ../includes/components/testimonials/testimonials-init.php:30
+#: ../includes/components/testimonials/testimonials-init.php:38
+#: ../includes/components/testimonials/testimonials-init.php:44
+#: ../includes/components/testimonials/testimonials-init.php:62
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/components/testimonials/testimonials-init.php:33
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../includes/components/testimonials/testimonials-init.php:56
+msgid "Company"
+msgstr ""
+
+#: ../includes/init.php:204 ../includes/spyropress-settings-theme.php:1080
+msgid "Reply"
+msgstr ""
+
+#: ../includes/init.php:211
+msgid "Pingback:"
+msgstr ""
+
+#: ../includes/init.php:211 ../woocommerce/myaccount/my-address.php:51
+msgid "Edit"
+msgstr ""
+
+#: ../includes/init.php:237
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/init.php:240
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/init.php:258
+msgid "<i class=\"fa fa-chevron-left\"></i> First"
+msgstr ""
+
+#: ../includes/init.php:259
+msgid "Last <i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: ../includes/init.php:260
+msgid "<i class=\"fa fa-chevron-left\"></i>"
+msgstr ""
+
+#: ../includes/init.php:261
+msgid "<i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: ../includes/porto-row-templates.php:16
+msgid "Map Row"
+msgstr ""
+
+#: ../includes/porto-row-templates.php:17
+msgid "Map row"
+msgstr ""
+
+#: ../includes/porto-row-templates.php:55
+msgid "GoogleMap Row"
+msgstr ""
+
+#: ../includes/porto-row-templates.php:56
+msgid "GoogleMap row"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:63 ../includes/shortcodes/config.php:105
+msgid "Button's Text"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:64 ../includes/shortcodes/config.php:106
+msgid "Add the button's text"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:69 ../includes/shortcodes/config.php:118
+msgid "Disabled Button"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:70 ../includes/shortcodes/config.php:119
+msgid "Make the button state disable"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:76 ../includes/shortcodes/config.php:125
+msgid "Button Size"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:77 ../includes/shortcodes/config.php:126
+msgid "Select the button's size"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:88 ../includes/shortcodes/config.php:137
+#: ../includes/shortcodes/config.php:313 ../includes/shortcodes/config.php:360
+#: ../includes/shortcodes/config.php:500
+msgid "Variation"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:89 ../includes/shortcodes/config.php:138
+msgid "Select the button's style"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:113
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:145
+msgid "Extra CssClass"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:162 ../includes/shortcodes/config.php:198
+msgid "Image URL"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:163 ../includes/shortcodes/config.php:199
+msgid "Add the image's url eg http://example.com"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:169
+msgid "Alternative Text"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:175 ../includes/shortcodes/config.php:320
+#: ../includes/shortcodes/config.php:367 ../includes/shortcodes/config.php:390
+#: ../includes/shortcodes/config.php:572
+msgid "Style"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:176
+msgid "Select the image's style"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:221
+msgid "Alert Title"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:222
+msgid "Add the alert's title"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:228
+msgid "Alert Text"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:229
+msgid "Add the alert's text"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:234
+msgid "Alert Style"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:235
+msgid "Select the alert's style, ie the alert colour"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:246
+msgid "Close Button"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:247
+msgid "To dismiss alerts"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:253
+msgid "Fade Alert"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:254
+msgid "To dismiss alerts with fadeOut animation"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:269
+msgid "Image Source"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:276
+msgid "Full Image Source"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:283
+msgid "Image Alignment"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:284
+msgid "Select the image alignment left or right"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:299
+msgid "Label"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:300
+msgid "Set progress label"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:306 ../includes/shortcodes/config.php:353
+msgid "Progress"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:307 ../includes/shortcodes/config.php:354
+msgid "Set progress percentage"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:314 ../includes/shortcodes/config.php:321
+#: ../includes/shortcodes/config.php:361 ../includes/shortcodes/config.php:368
+msgid "Select the bar's style"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:330
+msgid "Animate Progress"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:331
+msgid "To animate the progress"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:337
+msgid "Delay"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:338
+msgid "Delay in progress animation"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:377
+msgid "Add Bar"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:391
+msgid "Select the table's style"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:419
+msgid "Tooltip"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:426
+msgid "Position"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:447 ../includes/shortcodes/config.php:470
+msgid "Content"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:517 ../includes/shortcodes/config.php:535
+msgid "Icon"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:551
+msgid "Quote"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:558 ../templates/author-box.php:5
+msgid "Author"
+msgstr ""
+
+#: ../includes/shortcodes/config.php:565
+msgid "Source"
+msgstr ""
+
+#: ../includes/spyropress-scripts.php:174
+msgid "Sending ..."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:15
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:22
+msgid "Logo"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:23
+msgid "Upload a logo for your site or specify an image URL directly."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:29
+msgid "Logo (Retina Version)"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:30
+msgid ""
+"Upload a retina logo for your site. It should be exactly 2x the size of main "
+"logo"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:36
+msgid "Logo Width"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:38
+msgid "Select logo width(px)"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:45
+msgid "Logo Height"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:47
+msgid "Select logo height(px)"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:54
+msgid "Sticky Logo Width"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:56
+msgid "Select logo width(px) used in sticky header"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:63
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:65
+msgid "Select logo height(px) used in sticky header"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:72
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:73
+msgid ""
+"Upload a favicon for your site or specify an icon URL directly.<br/>Accepted "
+"formats: ico, png, gif<br/>Dimension: 16px x 16px."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:79
+msgid "Apple Touch Icon (small)"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:80
+msgid ""
+"Upload apple favicon.<br/>Accepted formats: png<br/>Dimension: 57px x 57px."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:86
+msgid "Apple Touch Icon (medium)"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:87
+msgid ""
+"Upload apple favicon.<br/>Accepted formats: png<br/>Dimension: 72px x 72px."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:93
+msgid "Apple Touch Icon (large)"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:94
+msgid ""
+"Upload apple favicon.<br/>Accepted formats: png<br/>Dimension: 114px x 114px."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:100
+msgid "Analytics"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:105
+msgid "Tracking Code"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:112
+#: ../includes/spyropress-settings-theme.php:459
+#: ../includes/spyropress-settings-theme.php:552
+#: ../includes/spyropress-settings-theme.php:679
+msgid "Social Sharing"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:117
+msgid "AddThis Publisher ID"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:123
+msgid "Search Options"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:131
+msgid "Enable Google Custom Search Engine"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:136
+msgid "Custom Search engine ID"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:146
+msgid "Header Customization"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:153
+msgid "Header Styles"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:170
+msgid "Social Networks"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:197
+msgid "Search"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:207
+msgid "Disable Search Box"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:212
+msgid "Search Placeholder"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:220
+msgid "Top Bar Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:226
+msgid "Teaser"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:235
+msgid "Phone Number"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:243
+#: ../includes/widgets/contact-info/contact.php:82
+#: ../includes/widgets/contact-info/contact.php:123
+#: ../woocommerce/single-product-reviews.php:66
+msgid "Email"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:255
+msgid "Footer Customization"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:262
+msgid "Footer Styles"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:277
+msgid "Ribbon Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:278
+msgid "Ribbon area above the footer make empty to disbale."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:286
+msgid "Footer Logo"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:293
+msgid "Copyrigth Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:304
+msgid "About Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:311
+msgid "About Company"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:334
+msgid "Blog Layout"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:340
+msgid "Large Image"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:341
+msgid "Medium Image"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:348
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:353
+#: ../includes/spyropress-settings-theme.php:364
+msgid "Left Side"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:354
+#: ../includes/spyropress-settings-theme.php:365
+msgid "Right Side"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:360
+msgid "Single Sidebar Position"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:371
+msgid "Excerpt Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:376
+msgid "Length by"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:381
+msgid "Words"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:382
+msgid "Character"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:388
+msgid "Length"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:389
+msgid "Set the length of excerpt."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:396
+msgid "Ellipsis"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:397
+#: ../includes/spyropress-settings-theme.php:405
+#: ../includes/spyropress-settings-theme.php:413
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:404
+msgid "Before Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:412
+msgid "After Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:420
+msgid "Read More"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:424
+msgid "Enable Read more link."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:429
+msgid "Link Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:430
+msgid "A text for Read More button."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:437
+msgid "Author Box"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:442
+msgid "A box to display about author."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:446
+msgid "Enable author box."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:451
+msgid "Author Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:452
+#: ../includes/spyropress-settings-theme.php:523
+msgid "Write the title."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:464
+#: ../includes/spyropress-settings-theme.php:557
+msgid "An <em>AddThis</em> widget for social sharing."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:468
+#: ../includes/spyropress-settings-theme.php:561
+msgid "Enable Social Sharing"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:473
+msgid "Share Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:484
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:493
+msgid "Single item slug"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:494
+msgid ""
+"<b>Important:</b> Do not use characters not allowed in links. <br /><br /"
+">Must be different from the Portfolio site title chosen above, eg. "
+"\"portfolio-item\". After change please go to \"Settings &raquo; Permalinks"
+"\" and click [Save changes] button."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:499
+msgid "Header Style"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:503
+msgid "Title Only"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:504
+msgid "Title with Buttons"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:509
+msgid "Related Work"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:517
+msgid "Enable related work."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:522
+msgid "Related Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:530
+msgid "Number Of items"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:531
+msgid "Set the number of related post."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:540
+msgid "Related Work By"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:541
+msgid "Choose the tag or category to show related portfolio."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:571
+msgid "WooCommerce Options"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:584
+msgid "Shop Layout"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:590
+#: ../includes/spyropress-settings-theme.php:661
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:608
+msgid "Top Bar"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:611
+msgid "Enable features at the Shop page."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:613
+msgid "Show Result Count"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:614
+msgid "Show Catalog Ordering"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:615
+msgid "Show Pagination"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:624
+msgid "Top"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:625
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:626
+msgid "Both"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:632
+msgid "Product Limit"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:633
+msgid "Set the number of product per page."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:641
+msgid "Product Columns"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:643
+msgid "Set the number of columns for shop."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:650
+msgid "Product Single Page Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:655
+msgid "Single Layout"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:683
+msgid "Enable social sharing"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:688
+msgid "Products Tabs"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:692
+msgid "Disable product tabs on product page."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:697
+#: ../woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:705
+msgid "Disable related products."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:710
+msgid "Related Products Limit"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:712
+msgid "Set the number of related product."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:719
+msgid "Related Product Columns"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:721
+msgid "Set the number of columns for related products"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:728
+msgid "Up Sell Products"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:736
+msgid "Disable up sell products."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:741
+msgid "Up Sell Products Limit"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:743
+msgid "Set the number of up sell product."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:749
+msgid "Up Sell Product Columns"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:751
+msgid "Set the number of columns for up sell products"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:758
+msgid "Mini Cart Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:766
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:771
+msgid "Mini Cart Items"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:773
+msgid "Set the number of cart items to display"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:780
+msgid "Cross Sell Products"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:788
+msgid "Disable cross sell products."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:793
+msgid "Cros Sell Products Limit"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:795
+msgid "Set the number of cross sell product."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:802
+msgid "Cross Sell Product Columns"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:804
+msgid "Set the number of columns for cross sell products"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:821
+msgid "Skins & layout"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:828
+msgid "Layout Options"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:833
+msgid "Theme Layout"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:837
+msgid "Select which layout you want for theme."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:840
+msgid "Full Layout"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:844
+msgid "Boxed Layout"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:852
+msgid "Boxed Background"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:881
+msgid "Theme Scheme"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:884
+msgid "Select which scheme you want for theme."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:886
+msgid "Dark Scheme"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:887
+msgid "Light Scheme"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:893
+msgid "Reponsiveness"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:897
+msgid "Deactivate responsive layout"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:902
+msgid "Skin Options"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:907
+msgid "Select skin"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:920
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:932
+msgid "Translate"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:939
+msgid "General"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:944
+msgid ""
+"Turn it off if you want to use .mo .po files for more complex translation."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:948
+msgid "Enable Translate"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:953
+msgid "Home Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:960
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:967
+msgid "Blog Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:974
+msgid "Archive Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:981
+msgid "Search Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:988
+msgid "Read More Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1000
+msgid "Description Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1007
+msgid "Preview Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1014
+msgid "Service Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1021
+msgid "Client Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1028
+msgid "Testimonial Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1043
+msgid "Text to display when there is one comment"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1051
+msgid "Text to display when there are more than one comments"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1058
+msgid "Comments closed"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1059
+msgid "Text to display when comments are disabled"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1064
+msgid "Reply Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1071
+msgid "Reply Button"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1081
+msgid "Text to display on comment Reply Button"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1086
+msgid "404 Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1098
+msgid "Subtitle"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1105
+msgid "Short Description"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1112
+msgid "Link Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1129
+msgid "Email Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1134
+msgid "Sender Name"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1135
+msgid "For example sender name is \"WordPress\"."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1141
+msgid "Sender Email Address"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1142
+msgid "For example sender email address is wordpress@yoursite.com."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1150
+msgid "Consumer Key"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1156
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1162
+msgid "Access Token"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1168
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1179
+msgid "WP-Pagenavi"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1184
+msgid "Text For Current Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1187
+#: ../includes/spyropress-settings-theme.php:1195
+msgid "The page number."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1192
+msgid "Text For Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1200
+msgid "Text For First Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1203
+#: ../includes/spyropress-settings-theme.php:1211
+msgid "The total number of pages."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1208
+msgid "Text For Last Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1216
+msgid "Text For Previous Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1223
+msgid "Text For Next Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1230
+msgid "Text For Previous &hellip;"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1237
+msgid "Text For Next &hellip;"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1244
+msgid "Page Navigation Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1246
+msgid "Leaving a field blank will hide that part of the navigation."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1250
+msgid "Always Show Page Navigation"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1254
+msgid "Show navigation even if there's only one page."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1259
+msgid "Number Of Pages To Show"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1266
+msgid "Number Of Larger Page Numbers To Show"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1269
+msgid ""
+"Larger page numbers are in addition to the normal page numbers. They are "
+"useful when there are many pages of posts."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1274
+msgid "Show Larger Page Numbers In Multiples Of"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1277
+msgid "For example, if mutiple is 5, it will show: 5, 10, 15, 20, 25"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1296
+msgid "Import / Export"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:1318
+msgid "Support"
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:25
+msgid "Quickly add contact info to your sidebar e.g. address, phone, email."
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:27
+msgid "Spyropress: Contact Info"
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:31
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:36
+msgid "Style 3"
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:56
+#: ../includes/widgets/contact-info/contact.php:93
+msgid "Address"
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:62
+#: ../includes/widgets/contact-info/contact.php:100
+msgid "Phone"
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:68
+msgid "International"
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:75
+#: ../includes/widgets/contact-info/contact.php:115
+msgid "Fax"
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:88
+msgid "Translation"
+msgstr ""
+
+#: ../includes/widgets/contact-info/contact.php:107
+msgid "International Phone"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:20
+msgid "Select Category"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:59 ../templates/archive-title.php:9
+#: ../templates/top-blog.php:4
+msgid "Archives"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:67
+msgid "Select Month"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:86
+msgid "Meta"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:95
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:95
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:96
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:96
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:98
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:99
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:100
+msgctxt "meta widget link text"
+msgid "WordPress.org"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:114
+msgid "Pages"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:157
+#: ../includes/widgets/tab-widget/tab-widget.php:58
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:240
+#: ../includes/widgets/tab-widget/tab-widget.php:77
+msgid "Recent Comments"
+msgstr ""
+
+#: ../includes/widgets/default-widgets.php:265
+#: ../includes/widgets/tab-widget/view.php:112
+#, php-format
+msgctxt "widgets"
+msgid "%2$s <span><em>by</em> %1$s</span>"
+msgstr ""
+
+#: ../includes/widgets/socials/socials.php:20
+msgid "Display social links into sidebar."
+msgstr ""
+
+#: ../includes/widgets/socials/socials.php:22
+msgid "Spyropress: Social Icons"
+msgstr ""
+
+#: ../includes/widgets/socials/socials.php:26
+msgid "Space from top"
+msgstr ""
+
+#: ../includes/widgets/tab-widget/tab-widget.php:21
+msgid "Display posts and comments in tab."
+msgstr ""
+
+#: ../includes/widgets/tab-widget/tab-widget.php:23
+msgid "Spyropress: Tab Widget"
+msgstr ""
+
+#: ../includes/widgets/tab-widget/tab-widget.php:28
+msgid "Disable Tabs"
+msgstr ""
+
+#: ../includes/widgets/tab-widget/tab-widget.php:32
+msgid "Hide Popular Tab"
+msgstr ""
+
+#: ../includes/widgets/tab-widget/tab-widget.php:33
+msgid "Hide Recent Tab"
+msgstr ""
+
+#: ../includes/widgets/tab-widget/tab-widget.php:34
+msgid "Hide Comment Tab"
+msgstr ""
+
+#: ../includes/widgets/tab-widget/tab-widget.php:39
+msgid "Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/tab-widget/tab-widget.php:51
+#: ../includes/widgets/tab-widget/tab-widget.php:70
+msgid "Number of Posts"
+msgstr ""
+
+#: ../includes/widgets/tab-widget/tab-widget.php:89
+msgid "Number of Comments"
+msgstr ""
+
+#: ../includes/widgets/twitter/twitter.php:23
+msgid "Spyropress: Twitter"
+msgstr ""
+
+#: ../includes/widgets/twitter/twitter.php:24
+msgid "Display latest tweets from Twitter"
+msgstr ""
+
+#: ../includes/widgets/twitter/twitter.php:36
+#: ../woocommerce/myaccount/form-login.php:92
+#: ../woocommerce/nav-signin-form.php:69
+msgid "Username"
+msgstr ""
+
+#: ../includes/widgets/twitter/twitter.php:42
+msgid "Post Count"
+msgstr ""
+
+#: ../includes/woocommerce-init.php:80 ../single-portfolio.php:124
+#: ../templates/related-works.php:88 ../woocommerce/myaccount/my-orders.php:87
+msgid "View"
+msgstr ""
+
+#: ../includes/woocommerce-init.php:81
+msgid "Details"
+msgstr ""
+
+#: ../includes/woocommerce-init.php:298
+#: ../woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../includes/woocommerce-init.php:305
+msgid "Update country"
+msgstr ""
+
+#: ../includes/woocommerce-init.php:348
+#: ../woocommerce/cart/shipping-calculator.php:57
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../product-searchform.php:3
+msgid "Search for products"
+msgstr ""
+
+#: ../searchform.php:3 ../templates/header/searchform.php:5
+msgid "Search.."
+msgstr ""
+
+#: ../single-portfolio.php:53
+msgid "Back to list"
+msgstr ""
+
+#: ../single.php:12
+msgid "Share this post"
+msgstr ""
+
+#: ../single.php:57 ../templates/blog-content-timeline.php:47
+#: ../templates/blog-loop-2.php:29 ../templates/blog-loop.php:23
+msgid "By "
+msgstr ""
+
+#: ../single.php:60 ../templates/blog-content-timeline.php:50
+#: ../templates/blog-loop-2.php:32 ../templates/blog-loop.php:26
+msgid "0 Comments"
+msgstr ""
+
+#: ../templates/archive-title.php:3
+msgid "<span>Our</span> Blog"
+msgstr ""
+
+#: ../templates/archive-title.php:4
+#, php-format
+msgid "<span>Category:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:5
+#, php-format
+msgid "<span>Tag:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:6
+#, php-format
+msgid "<span>Daily:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:7
+#, php-format
+msgid "<span>Monthly:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:8
+#, php-format
+msgid "<span>Yearly:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:20
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../templates/archive-title.php:22
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../templates/blog-content-timeline.php:3 ../templates/blog-loop-2.php:3
+#: ../templates/blog-loop.php:3
+msgid "Read more..."
+msgstr ""
+
+#: ../templates/page-content-left.php:18
+#: ../templates/page-content-right.php:13 ../templates/page-content.php:7
+msgid "Pages:"
+msgstr ""
+
+#: ../templates/related-works.php:52
+msgid "Related <strong>Work</strong>"
+msgstr ""
+
+#: ../templates/top-blog.php:5
+msgid "Term:"
+msgstr ""
+
+#: ../templates/top-page-portfolio.php:3
+msgid "Home"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:54
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:58
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:62
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:71
+#: ../woocommerce/cart/cart-shipping.php:77
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:92
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:23
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:77
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:91
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:94
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:33 ../woocommerce/checkout/form-pay.php:17
+#: ../woocommerce/checkout/review-order.php:27
+#: ../woocommerce/emails/admin-new-order.php:22
+#: ../woocommerce/emails/customer-completed-order.php:23
+#: ../woocommerce/emails/customer-invoice.php:27
+#: ../woocommerce/emails/customer-note.php:27
+#: ../woocommerce/emails/customer-processing-order.php:23
+#: ../woocommerce/order/order-details.php:25
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:35 ../woocommerce/checkout/review-order.php:29
+#: ../woocommerce/emails/admin-new-order.php:23
+#: ../woocommerce/emails/customer-completed-order.php:24
+#: ../woocommerce/emails/customer-invoice.php:28
+#: ../woocommerce/emails/customer-note.php:28
+#: ../woocommerce/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:36 ../woocommerce/checkout/review-order.php:30
+#: ../woocommerce/myaccount/my-orders.php:39
+#: ../woocommerce/order/order-details.php:26
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:53 ../woocommerce/cart/mini-cart.php:44
+#: ../woocommerce/nav-mini-cart.php:41
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:81 ../woocommerce/checkout/review-order.php:69
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:127 ../woocommerce/checkout/form-coupon.php:23
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:130 ../woocommerce/checkout/form-coupon.php:26
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:146
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:193 ../woocommerce/nav-mini-cart.php:69
+msgid "Proceed to Checkout &raquo;"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:57 ../woocommerce/nav-mini-cart.php:54
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:71 ../woocommerce/nav-mini-cart.php:68
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:72
+msgid "Checkout &raquo;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:18
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:41
+#: ../woocommerce/cart/shipping-calculator.php:50
+msgid "State / county"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:76
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:92
+msgid "City"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:101
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:18
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:18
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:22
+msgid "Billing Details"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:62
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:73
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:22
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:53
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:53
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:60
+msgid "Place order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:69
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:16
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:16
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:23
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:18
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:19
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:52
+msgid "Payment"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:77
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:45
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:88
+#: ../woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:17
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:145
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:147
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:21
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:25
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:27
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:31
+#: ../woocommerce/myaccount/my-orders.php:74
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:33
+#: ../woocommerce/nav-signin-form.php:162
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:39
+#: ../woocommerce/checkout/thankyou.php:70
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:43
+#: ../woocommerce/emails/customer-completed-order.php:18
+#: ../woocommerce/emails/customer-invoice.php:22
+#: ../woocommerce/emails/customer-note.php:22
+#: ../woocommerce/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:47
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:51
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:56
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/default-woocommerce-widgets.php:352
+#, php-format
+msgctxt "by comment author"
+msgid "by %1$s"
+msgstr ""
+
+#: ../woocommerce/default-woocommerce-widgets.php:440
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: ../woocommerce/default-woocommerce-widgets.php:773
+msgid "Min price"
+msgstr ""
+
+#: ../woocommerce/default-woocommerce-widgets.php:774
+msgid "Max price"
+msgstr ""
+
+#: ../woocommerce/default-woocommerce-widgets.php:776
+msgid "Price:"
+msgstr ""
+
+#: ../woocommerce/default-woocommerce-widgets.php:778
+msgid "Filter"
+msgstr ""
+
+#: ../woocommerce/default-woocommerce-widgets.php:834
+#: ../woocommerce/default-woocommerce-widgets.php:841
+#: ../woocommerce/default-woocommerce-widgets.php:846
+msgid "Remove filter"
+msgstr ""
+
+#: ../woocommerce/default-woocommerce-widgets.php:841
+msgid "Min"
+msgstr ""
+
+#: ../woocommerce/default-woocommerce-widgets.php:846
+msgid "Max"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:13
+#: ../woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:50
+#: ../woocommerce/emails/customer-completed-order.php:51
+#: ../woocommerce/emails/customer-note.php:55
+#: ../woocommerce/emails/customer-processing-order.php:51
+#: ../woocommerce/emails/plain/admin-new-order.php:39
+#: ../woocommerce/order/order-details.php:103
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:53
+#: ../woocommerce/emails/customer-completed-order.php:54
+#: ../woocommerce/emails/customer-note.php:58
+#: ../woocommerce/emails/customer-processing-order.php:54
+#: ../woocommerce/emails/plain/admin-new-order.php:42
+#: ../woocommerce/emails/plain/customer-completed-order.php:41
+#: ../woocommerce/emails/plain/customer-note.php:49
+#: ../woocommerce/emails/plain/customer-processing-order.php:41
+#: ../woocommerce/order/order-details.php:106
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:56
+#: ../woocommerce/emails/customer-completed-order.php:57
+#: ../woocommerce/emails/customer-note.php:61
+#: ../woocommerce/emails/customer-processing-order.php:57
+#: ../woocommerce/emails/plain/admin-new-order.php:45
+#: ../woocommerce/emails/plain/customer-completed-order.php:44
+#: ../woocommerce/emails/plain/customer-note.php:52
+#: ../woocommerce/emails/plain/customer-processing-order.php:44
+msgid "Tel:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-completed-order.php:14
+#: ../woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:16
+#: ../woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:14
+#: ../woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:18
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:22
+#: ../woocommerce/emails/plain/customer-new-account.php:18
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:14
+#: ../woocommerce/emails/plain/customer-note.php:13
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:18
+#: ../woocommerce/emails/plain/customer-note.php:21
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: ../woocommerce/emails/customer-processing-order.php:14
+#: ../woocommerce/emails/plain/customer-processing-order.php:13
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:14
+#: ../woocommerce/emails/plain/customer-reset-password.php:13
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:15
+#: ../woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:16
+#: ../woocommerce/emails/plain/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:17
+#: ../woocommerce/emails/plain/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:20
+#: ../woocommerce/emails/plain/email-addresses.php:14
+msgid "Billing address"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:30
+#: ../woocommerce/emails/plain/email-addresses.php:19
+msgid "Shipping address"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:23
+msgid "Product Image"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:44
+#: ../woocommerce/emails/plain/email-order-items.php:47
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:46
+#: ../woocommerce/emails/plain/email-order-items.php:49
+msgid "Download"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:19
+#: ../woocommerce/emails/plain/customer-completed-order.php:19
+#: ../woocommerce/emails/plain/customer-invoice.php:20
+#: ../woocommerce/emails/plain/customer-note.php:27
+#: ../woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:20
+#, php-format
+msgid "Order link: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:21
+#: ../woocommerce/emails/plain/customer-completed-order.php:20
+#: ../woocommerce/emails/plain/customer-invoice.php:21
+#: ../woocommerce/emails/plain/customer-note.php:28
+#: ../woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:21
+msgid "jS F Y"
+msgstr ""
+
+#: ../woocommerce/emails/plain/customer-completed-order.php:38
+#: ../woocommerce/emails/plain/customer-note.php:46
+#: ../woocommerce/emails/plain/customer-processing-order.php:38
+msgid "Your details"
+msgstr ""
+
+#: ../woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: ../woocommerce/emails/plain/email-order-items.php:33
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/email-order-items.php:36
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:72
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:100
+#: ../woocommerce/global/breadcrumb.php:202
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:156
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:206
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:211
+msgid "Author:"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:28
+#: ../woocommerce/myaccount/form-lost-password.php:27
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:36
+#: ../woocommerce/myaccount/form-login.php:42
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:37
+#: ../woocommerce/myaccount/form-login.php:43
+#: ../woocommerce/myaccount/form-login.php:114
+#: ../woocommerce/nav-signin-form.php:34
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:49
+#: ../woocommerce/myaccount/form-login.php:56
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:55
+#: ../woocommerce/myaccount/form-login.php:62
+#: ../woocommerce/nav-signin-form.php:49
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/global/quantity-input.php:12
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:16
+msgid "Default sorting"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:17
+msgid "Sort by popularity"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:18
+msgid "Sort by average rating"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:19
+msgid "Sort by newness"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:20
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:21
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:32
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:16
+#: ../woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:22
+#: ../woocommerce/myaccount/form-lost-password.php:40
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:26
+#: ../woocommerce/myaccount/form-lost-password.php:49
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:31
+#: ../woocommerce/myaccount/form-lost-password.php:62
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:29
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:37
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:45
+#: ../woocommerce/myaccount/form-login.php:103
+msgid "Email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:53
+msgid "Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:61
+msgid "Confirm new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:70
+msgid "Save changes"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/order/order-details.php:129
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:20
+#: ../woocommerce/order/order-details.php:142
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:46
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:25
+msgid "I'm a Returning Customer"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:81
+msgid "Register An Account"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:123
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:131
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:35
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:62
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:25
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:30
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:38
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:71
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:29
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:30
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:36
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:37
+msgid "Date"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:38
+msgid "Status"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:65
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/view-order.php:20
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:24
+#: ../woocommerce/order/tracking.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:30
+#: ../woocommerce/order/tracking.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:19
+msgid "Sign In"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:25
+msgid "Username or E-mail Address"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:33
+msgid "(Lost Password?)"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:44
+msgid "Remember Me"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:49 ../woocommerce/nav-signin-form.php:86
+#: ../woocommerce/nav-signin-form.php:113
+msgid "Loading..."
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:55
+msgid "Don' t have an account yet?"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:55
+msgid "Sign Up!"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:64 ../woocommerce/nav-signin-form.php:86
+msgid "Create Account"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:77
+msgid "E-mail Address"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:90
+#: ../woocommerce/nav-signin-form.php:117
+msgid "Already have an account?"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:90
+#: ../woocommerce/nav-signin-form.php:117
+msgid "Log In!"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:98
+msgid "Reset My Password"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:99
+msgid ""
+"Complete the form below to receive an email with the authorization code "
+"needed to reset your password."
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:104
+msgid "Username or E-mail"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:113
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/nav-signin-form.php:165
+msgid "Log Out"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:21
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:71
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:107
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:132
+#: ../woocommerce/order/order-details.php:145
+#: ../woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:12
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:12
+msgid "ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+msgid "and was completed"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+msgid " ago"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:21
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:59
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:59
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:64
+msgid "Name"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:69
+msgid "Submit Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:85
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:98
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:26
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:30
+msgid "Choose an option"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:106
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:24
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/rating.php:26
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:28
+#: ../woocommerce/single-product/review.php:38
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:31
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/review.php:37
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:48
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:41
+msgid "You may also like&hellip;"
+msgstr ""
