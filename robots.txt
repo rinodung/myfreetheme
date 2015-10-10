@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /?display=wide
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /readme.html
+Disallow: /refer/
+
+Sitemap: http://myfreetheme.com/post-sitemap.xml
+Sitemap: http://myfreetheme.com/page-sitemap.xml
+Sitemap: http://myfreetheme.com/category-sitemap.xml
+Sitemap: http://myfreetheme.com/post_tag-sitemap.xml

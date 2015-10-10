@@ -1,0 +1,10 @@
+
+.sharify-facebook:before { content: '\e800'; } /* '' */
+.sharify-twitter:before { content: '\e801'; } /* '' */
+.sharify-mail:before { content: '\e802'; } /* '' */
+.sharify-pinterest:before { content: '\e803'; } /* '' */
+.sharify-linkedin:before { content: '\e804'; } /* '' */
+.sharify-gplus:before { content: '\e805'; } /* '' */
+.sharify-reddit:before { content: '\e806'; } /* '' */
+.sharify-pocket:before { content: '\e807'; } /* '' */
+.sharify-vk:before { content: '\e808'; } /* '' */

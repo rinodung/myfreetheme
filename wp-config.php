@@ -1,7 +1,9 @@
 <?php
 /** Enable W3 Total Cache */
 define('WP_CACHE', true); // Added by W3 Total Cache
-
+define('WP_HOME','http://myfreetheme.com/');
+define('WP_SITEURL','http://myfreetheme.com/');
+define('FS_METHOD','direct');
 /**
  * The base configurations of the WordPress.
  *
@@ -19,13 +21,13 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'share4life');
+define('DB_NAME', 'theme');
 
 /** MySQL database username */
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'password!12@');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
